@@ -1,6 +1,6 @@
 # Hi, I'm Amaan Singla 👋
 
-**CS + Business @ UMass Amherst** · Targeting PM & Sales Engineering · Summer 2027
+**CS and Business @ UMass Amherst** · Looking for PM/Sales Engineering/Dev Advocacy Internships for Summer 2027.
 
 I build software with a product mindset — interested in roles where technical depth and customer understanding overlap.
 
