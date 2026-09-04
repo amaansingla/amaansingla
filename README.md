@@ -17,9 +17,13 @@ A Chrome extension that overlays H-1B sponsorship data directly on LinkedIn job 
 
 ## 💼 Experience
 
-**Software Engineering Intern — CRIF India** *(Dec 2025 – Jan 2026)*
+### **AI/ML Intern — Elystar Investment Management** *(Jul 2026 – Sep 2026)*
 
-Built an internal chatbot serving 50+ employees, centralizing access to documentation and tools across engineering and operations teams. Designed REST APIs with Spring Boot, reduced database latency by 30% through keyword normalization and in-memory caching, and modeled relational data with Spring Data JPA.
+Completed structured training in machine learning while analyzing company fundamentals and historical stock market data to identify features with predictive potential. Performed exploratory data analysis (EDA), researched financial indicators, and documented insights supporting future quantitative investment research.
+
+### **Software Engineering Intern — CRIF High Mark Credit Information Services** *(Dec 2025 – Jan 2026)*
+
+Built an internal chatbot serving 100+ employees, centralizing access to documentation and tools across engineering and operations teams. Designed REST APIs with Spring Boot, reduced database latency by 30% through keyword normalization and in-memory caching, and modeled relational data using Spring Data JPA.
 
 ---
 
@@ -41,5 +45,5 @@ Built an internal chatbot serving 50+ employees, centralizing access to document
 
 ## 📬 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/amaansingla)
-[Email](mailto:singla.amaan@gmail.com)
+- LinkedIn: https://linkedin.com/in/amaansingla
+- Email: singla.amaan@gmail.com
