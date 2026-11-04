@@ -74,5 +74,4 @@ Built an internal chatbot used by 100+ employees that puts engineering and opera
 
 ## 📬 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/amaansingla)
-[Email](mailto:singla.amaan@gmail.com)
+[LinkedIn](https://linkedin.com/in/amaansingla) · [Email](mailto:singla.amaan@gmail.com)
