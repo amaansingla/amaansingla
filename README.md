@@ -52,7 +52,7 @@ Analyzed company fundamentals and historical market data to find features with p
 ### Software Engineering Intern · CRIF High Mark
 *Dec 2025 – Jan 2026*
 
-Built an internal chatbot used by 100+ employees that puts engineering and operations docs in one place. Designed the REST APIs in Spring Boot, modeled the data with Spring Data JPA, and cut database latency by 30% with keyword normalization and in-memory caching.
+Built an internal chatbot used by 100+ employees that puts engineering and operations docs in one place. Designed the REST APIs in Spring Boot, modeled the data with Spring Data JPA, and cut average response latency by 30% with keyword normalization and in-memory caching.
 
 ---
 
