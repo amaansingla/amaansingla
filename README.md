@@ -25,7 +25,7 @@ As an international student, I kept losing hours applying to companies that don'
 
 - Sponsorship badges on every job card, with a popup for details
 - "H-1B only" filter that remembers your setting
-- Dataset of ~66K companies built from public Department of Labor data
+- Dataset of ~70K companies built from public Department of Labor data
 
 `JavaScript` · `Chrome Extensions API` · `DOL Public Data`
 
