@@ -11,19 +11,10 @@ I build products around real problems, then figure out how to explain them to th
 ### [Catch2Catch](https://github.com/ymeziad/Catch2Catch) · Cal Hacks 13.0
 **An AI "order witness" and back office for small drink wholesalers.**
 
-Small distributors and the corner shops they supply agree on orders over the phone, and nobody writes anything down. When a delivery shows up short or wrong, neither side can prove what was agreed. Catch2Catch fixes that:
+Small shops order drinks from distributors over the phone, and nobody writes it down. Catch2Catch records the call with consent, uses Claude to pull out the order, and gets both sides to confirm by text, so there's proof when a delivery shows up wrong.
 
-1. Records the call (only after both sides consent) with each speaker on a separate audio track
-2. Transcribes the call and uses Claude to pull out the order, matched to real catalog items
-3. Texts both sides the same order summary to confirm
-4. Checks what the warehouse packed against what was ordered, using barcode scans and photos
-5. Handles invoicing, payment reminders, and disputes, with every decision logged as evidence
-
-**My part: the money and automation layer, plus the owner dashboard.**
-- Built invoicing and a double-entry ledger that kicks in once both sides confirm an order
-- Automated payment reminders that run on a schedule, escalate to the owner, and stop once a bill is paid or disputed
-- Built the owner dashboard for reviewing orders, bills, payments, and disputes
-- Kept a human in the loop: the AI can recommend a refund or credit, but only the owner can approve money moving
+- Built the money side: invoicing, a double-entry ledger, and automated payment reminders that escalate to the owner
+- Built the owner dashboard for orders, bills, and disputes
 
 `Next.js` · `TypeScript` · `Convex` · `Twilio` · `Claude API` · `xAI Grok` · `Apify`
 
@@ -83,4 +74,5 @@ Built an internal chatbot used by 100+ employees that puts engineering and opera
 
 ## 📬 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/amaansingla) · [Email](mailto:singla.amaan@gmail.com)
+[LinkedIn](https://linkedin.com/in/amaansingla)
+[Email](mailto:singla.amaan@gmail.com)
