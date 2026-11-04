@@ -8,6 +8,10 @@ I like building things people actually use, then figuring out how to explain the
 
 ## 🔨 Projects
 
+### [Catch2Catch](https://github.com/ymeziad/Catch2Catch) · Cal Hacks 13.0
+<!-- Add a one-line description of what Catch2Catch does -->
+Built in 36 hours on a 3-person team. I owned payments, automation, and the owner dashboard.
+
 ### [VisaTrack](https://github.com/amaansingla/VisaTrack)
 **H-1B sponsorship data, right on LinkedIn job cards.**
 
@@ -29,14 +33,6 @@ Build a product page, share the link, and collect signups. No code, no setup.
 - Signup tracking with duplicate prevention and one-click Excel export
 
 `React` · `Node.js` · `Express` · `PostgreSQL` · `JWT` · `Resend` · `Railway` · `Vercel`
-
-### [Catch2Catch](https://github.com/ymeziad/Catch2Catch) · Cal Hacks 13.0
-<!-- Add a one-line description of what Catch2Catch does -->
-Built in 36 hours on a 3-person team. I owned payments, automation, and the owner dashboard.
-
-### [Amherst Pulse](https://github.com/hannahWaring/Amherst-Pulse) · CS 320 Team Project
-<!-- Add a one-line description of what Amherst Pulse does -->
-Frontend developer on a semester-long team project. I built the login and Explore pages.
 
 ---
 
