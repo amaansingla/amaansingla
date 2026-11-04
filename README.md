@@ -1,49 +1,75 @@
-# Hi, I'm Amaan Singla 👋
+# Hi, I'm Amaan 👋
 
-**CS and Business @ UMass Amherst** · Looking for PM/Sales Engineering/Dev Advocacy Internships for Summer 2027.
+CS major, Business minor at **UMass Amherst** (Class of 2028). Looking for **Summer 2027** internships in **Product Management, Sales Engineering, or Developer Advocacy**.
 
-I build software with a product mindset — interested in roles where technical depth and customer understanding overlap.
+I like building things people actually use, then figuring out how to explain them. The best work happens where engineering meets the customer, and that's where I want to be.
 
 ---
 
-## 🔨 What I'm Building
+## 🔨 Projects
 
 ### [VisaTrack](https://github.com/amaansingla/VisaTrack)
-A Chrome extension that overlays H-1B sponsorship data directly on LinkedIn job cards using public DOL data. Built because as an international student I kept getting rejections after spending hours applying to companies that don't sponsor visas — manually cross-checking was eating 15+ minutes per session. VisaTrack cuts that to under a minute.
+**H-1B sponsorship data, right on LinkedIn job cards.**
+
+As an international student, I kept losing hours applying to companies that don't sponsor visas. Checking each one by hand took 15+ minutes a session. VisaTrack does it in under a minute.
+
+- Sponsorship badges on every job card, with a click-through popup for details
+- "H-1B only" filter that remembers your setting
+- Dataset of ~66K companies built from public Department of Labor data
 
 `JavaScript` · `Chrome Extensions API` · `DOL Public Data`
+
+### [QuickLaunch](https://github.com/amaansingla/QuickLaunch) · [Live demo](https://quick-launch-eight.vercel.app)
+**Landing page and waitlist builder for founders.**
+
+Build a product page, share the link, and collect signups. No code, no setup.
+
+- Live-preview editor that publishes to a public page
+- Accounts with secure login, plus a dashboard for every product you launch
+- Signup tracking with duplicate prevention and one-click Excel export
+
+`React` · `Node.js` · `Express` · `PostgreSQL` · `JWT` · `Resend` · `Railway` · `Vercel`
+
+### [Catch2Catch](https://github.com/ymeziad/Catch2Catch) · Cal Hacks 13.0
+<!-- Add a one-line description of what Catch2Catch does -->
+Built in 36 hours on a 3-person team. I owned payments, automation, and the owner dashboard.
+
+### [Amherst Pulse](https://github.com/hannahWaring/Amherst-Pulse) · CS 320 Team Project
+<!-- Add a one-line description of what Amherst Pulse does -->
+Frontend developer on a semester-long team project. I built the login and Explore pages.
 
 ---
 
 ## 💼 Experience
 
-### **AI/ML Intern — Elystar Investment Management** *(Jul 2026 – Sep 2026)*
+### AI/ML Intern · Elystar Investment Management
+*Jul 2026 – Sep 2026 · Remote*
 
-Completed structured training in machine learning while analyzing company fundamentals and historical stock market data to identify features with predictive potential. Performed exploratory data analysis (EDA), researched financial indicators, and documented insights supporting future quantitative investment research.
+Analyzed company fundamentals and historical market data to find features with predictive value for quantitative research. Ran exploratory data analysis, researched financial indicators, and documented findings for the research team.
 
-### **Software Engineering Intern — CRIF High Mark Credit Information Services** *(Dec 2025 – Jan 2026)*
+### Software Engineering Intern · CRIF High Mark
+*Dec 2025 – Jan 2026*
 
-Built an internal chatbot serving 100+ employees, centralizing access to documentation and tools across engineering and operations teams. Designed REST APIs with Spring Boot, reduced database latency by 30% through keyword normalization and in-memory caching, and modeled relational data using Spring Data JPA.
+Built an internal chatbot used by 100+ employees that puts engineering and operations docs in one place. Designed the REST APIs in Spring Boot, modeled the data with Spring Data JPA, and cut database latency by 30% with keyword normalization and in-memory caching.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, JavaScript, TypeScript, SQL  
-**Backend:** Spring Boot, REST APIs, Spring Data JPA  
-**Frontend:** React, HTML5, CSS3  
-**Tools:** Git, VS Code, IntelliJ IDEA
+**Languages:** Python, Java, JavaScript, TypeScript, SQL, C++  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express, Spring Boot, REST APIs, PostgreSQL, Spring Data JPA  
+**Tools & Deploy:** Git, Railway, Vercel, VS Code, IntelliJ IDEA
 
 ---
 
-## 🏆 A Bit More
+## 🎸 Outside of Code
 
-- Chancellor's Award recipient — UMass Amherst
-- CS + Business Minor · Class of 2028
+- Chancellor's Award recipient, UMass Amherst
+- Lifelong musician. I make Desi Nu Metal and Hip Hop.
 
 ---
 
 ## 📬 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/amaansingla
-- Email: singla.amaan@gmail.com
+[LinkedIn](https://linkedin.com/in/amaansingla) · [Email](mailto:singla.amaan@gmail.com)
