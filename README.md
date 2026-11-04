@@ -8,10 +8,10 @@ I build products around real problems, then figure out how to explain them to th
 
 ## 🔨 Projects
 
-### [Catch2Catch](https://github.com/ymeziad/Catch2Catch) · Cal Hacks 13.0
+### [Dandush](https://github.com/ymeziad/Dandush) · [Live demo](https://dandush-app.vercel.app/today) · Cal Hacks 13.0
 **An AI "order witness" and back office for small drink wholesalers.**
 
-Small shops order drinks from distributors over the phone, and nobody writes it down. Catch2Catch records the call with consent, uses Claude to pull out the order, and gets both sides to confirm by text, so there's proof when a delivery shows up wrong.
+Small shops order drinks from distributors over the phone, and nobody writes it down. Dandush records the call with consent, uses Claude to pull out the order, and sends both sides the same order summary on WhatsApp, so there's proof when a delivery shows up wrong.
 
 - Built the money side: invoicing, a double-entry ledger, and automated payment reminders that escalate to the owner
 - Built the owner dashboard for orders, bills, and disputes
